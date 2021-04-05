@@ -18,7 +18,7 @@ Cервис получает  файл в формате .xlsx, создает �
 
 ➢	Spring Boot 2 (with Spring Web MVC)
 
-➢	Maven 3.6.1
+➢	Maven 4.0.0
 
 ➢	Apache POI 4.1.2
 
